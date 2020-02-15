@@ -1,0 +1,6 @@
+
+Login information for CMS:
+
+Username/email:admin or alexkrest@abv.bg
+
+Password:admin12345
